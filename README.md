@@ -1,23 +1,25 @@
-# Mouse Effect - Javascript
+# Mouse Effect - JavaScript
 
-**[시작하기](https://hwahyeon.github.io/lecture_wb/MouseEffect/mouse01.html)**
+`JavaScript` `GSAP`
 
-**[①](https://hwahyeon.github.io/lecture_wb/MouseEffect/mouse01.html)**
-**[②](https://hwahyeon.github.io/lecture_wb/MouseEffect/mouse02.html)**
-**[③](https://hwahyeon.github.io/lecture_wb/MouseEffect/mouse03.html)**
-**[④](https://hwahyeon.github.io/lecture_wb/MouseEffect/mouse04.html)**
-**[⑤](https://hwahyeon.github.io/lecture_wb/MouseEffect/mouse05.html)**
-**[⑥](https://hwahyeon.github.io/lecture_wb/MouseEffect/mouse06.html)**
-**[⑦](https://hwahyeon.github.io/lecture_wb/MouseEffect/mouse07.html)**
-**[⑧](https://hwahyeon.github.io/lecture_wb/MouseEffect/mouse08.html)**
-**[⑨](https://hwahyeon.github.io/lecture_wb/MouseEffect/mouse09.html)**
+## 개요
 
-### 사용
-- JavaScript
-- GSAP
-- The images come from [Pixabay](https://pixabay.com/)
+이 저장소는 **Mouse Effect - JavaScript**의 학습 내용이 정리되어 있습니다.
 
-### 구현 내용
+> 강사 : webstoryboy
+
+## 학습 목표
+- JavaScript 스킬 함양
+
+## 학습 결과
+[결과물 바로가기]()
+
+## 학습 내용
 - 커서 애니메이션
 - 마우스 움직임으로 배경에 효과 주기
 - 마우스 움직임으로 도형/텍스트에 효과 주기
+
+
+## 참고 자료
+- [강의 소개](https://www.youtube.com/playlist?list=PL4UVBBIc6giI9zDQvx9z8CiRAh7WB8-3J)
+- The images come from [Pixabay](https://pixabay.com/)
