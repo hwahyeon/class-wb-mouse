@@ -12,7 +12,7 @@
 - JavaScript 스킬 함양
 
 ## 학습 결과
-[결과물 바로가기]()
+[결과물 바로가기](https://hwahyeon.github.io/class-wb-mouse)
 
 ## 학습 내용
 - 커서 애니메이션
