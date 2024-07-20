@@ -12,7 +12,7 @@ This repository contains the learning materials for Mouse Effect with JavaScript
 - Enhance JavaScript skills
 
 ## Learning Outcomes
-[View the Result](https://hwahyeon.github.io/class-wb-mouse)
+[View the Result](https://hwahyeon.github.io/mouse-effect-js-practice/)
 
 ## Learning Content
 - Cursor animation
